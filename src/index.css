@@ -4,9 +4,8 @@
   margin: 0;
   padding: 0;
   list-style: none;
+  outline: 0;
   text-decoration: none;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   box-sizing: border-box;
 }
 
@@ -67,6 +66,7 @@ h1 {
 
 section {
   margin-top: 8rem;
+  height: 100vh;
 }
 
 section > h2,

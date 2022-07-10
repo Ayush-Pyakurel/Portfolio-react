@@ -2,6 +2,7 @@ import React from 'react';
 import './Header.css';
 import Information from './Information';
 import ME from '../../assets/me.jpg';
+import MY from '../../assets/my.jpeg';
 import HeaderSocials from './HeaderSocials';
 
 const Header = () => {
